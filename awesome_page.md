@@ -1,3 +1,3 @@
-#Strange Page of Not Awesome
+#Awesomeness Page
 
-* It will all conflict terribly! Oh no!
+* This one is different and full of conflict!
